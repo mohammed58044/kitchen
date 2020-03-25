@@ -2,3 +2,4 @@ kitchen recipe
 
 1 egg plant
 2 carrot
+3 potato

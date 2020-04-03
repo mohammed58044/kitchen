@@ -3,4 +3,4 @@ kitchen recipe
 1 egg plant
 2 carrot
 3 potato
-4 onion
+4 Beans

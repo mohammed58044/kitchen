@@ -2,10 +2,5 @@ kitchen recipe
 
 1 egg plant
 2 carrot
-3 potato
-<<<<<<< HEAD
-4 Beans
-=======
-4 onion
-5 eggs
->>>>>>> ca30c4c6c1d7e274846146a7220c29f4ac65488b
+3 mint
+

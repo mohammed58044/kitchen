@@ -3,4 +3,5 @@ kitchen recipe
 1 egg plant
 2 carrot
 3 mint
+4 potato
 

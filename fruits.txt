@@ -1,4 +1,5 @@
 grapes
 apples
 watermelon
-Jackfruit
+mangos
+banana
